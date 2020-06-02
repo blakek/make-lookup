@@ -1,6 +1,6 @@
 {
   "name": "@blakek/make-lookup",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "main": "dist/make-lookup.cjs.js",
   "module": "dist/make-lookup.esm.js",
   "browser": "dist/make-lookup.umd.js",
