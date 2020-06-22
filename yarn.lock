@@ -836,10 +836,10 @@
   resolved "https://registry.yarnpkg.com/@blakek/curry/-/curry-2.0.2.tgz#979e927bcf5fa0426d2af681d7131df5791d1cd4"
   integrity sha512-B/KkDnZqm9Y92LwETU80BaxbQ61bYTR2GaAY41mKisaICwBoC8lcuw7lwQLl52InMhviCTJBO39GJOA8d+BrVw==
 
-"@blakek/deep@^2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@blakek/deep/-/deep-2.0.0.tgz#bfa0bff2e26e03055c80146de9f36b0814fd03f9"
-  integrity sha512-RWvj1k0Butl77M6yno6jX2HMBYZHhsVE3rCtuLb9nWIRe6LdA+5KLFMFBzhYdNijlbhXYy50VKX5E6thLjA0ow==
+"@blakek/deep@^2.0.1":
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/@blakek/deep/-/deep-2.0.1.tgz#06e09f780281b3b84ec61640c1c34fb6e2a8d4c1"
+  integrity sha512-yAubDv17NhcKOfxUg+ADu7Q0qBLH1T9RAQDa7ZBoIiGTV9/OK7lch3pVroRA0P9Ta3ioUFI7FWFmEmjDQtqWEg==
   dependencies:
     "@blakek/curry" "^2.0.2"
     pathington "^1.1.7"
