@@ -7,7 +7,7 @@ export function makeLookup<T>(
   return inputArray.reduce(
     (lookup: Record<string, T>, next: Record<string, any>) => ({
       ...lookup,
-      [get(next, lookupProperty)]: next
+      [get(lookupProperty, next)]: next
     }),
     {}
   );
